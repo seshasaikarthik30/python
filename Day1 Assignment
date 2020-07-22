@@ -1,0 +1,23 @@
+Day 1:-
+Assignment 1
+
+
+1)What is Python ? What are the ways to install python?
+
+Ans: Python is a popular general-purpose programming language that can be used for a wide variety of applications. It includes high-level data structures, dynamic typing, dynamic binding, and many more features that make it as useful for complex application development as it is for scripting or "glue code" that connects components together. It can also be extended to make system calls to almost all operating systems and to run code written in C or C++. Due to its ubiquity and ability to run on nearly every system architecture, Python is a universal language found in a variety of different applications.
+Python is an object oriented,high-level programming language, released in 1991 by Guido van Rossum.
+
+Ways to install Python:
+i)Python can be installed directly by going to python.org
+ii)you can install Anaconda from Anaconda.com
+
+
+2) What are Code Environments and its types.
+Ans: A code Environment is a place where we can write code, compile code as well as see the output of that code all in one place.
+3 types of Code Environments:
+
+1. Text editor: It is a general purpose editor like Notepad++, Visual studio code.
+
+2. Full IDE: Integrated development environment designed specifically for python.. example are pycharm, spyder.
+
+3. Notebook Environment: great for learning. can see input and output next to each other. Ex: are Jupyter notebook.
